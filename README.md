@@ -22,6 +22,7 @@ format: [First name, Last name, Address, Username, Password, Full Permission]
 * Persistence data (stored in .data files)
 * Copy
 <h5 align="center">Admin</h5>
+
 * Search for a particular customer to perform various banking operations
 * Deposit/Withdraw money into a customer account
 * View/Update customer details
