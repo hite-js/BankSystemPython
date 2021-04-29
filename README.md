@@ -17,10 +17,12 @@ format: [First name, Last name, Address, Username, Password, Full Permission]
 * Cathy, Newman, 47 Mars Street Newcastle NE12 6TZ, id3313, 2442, False
 
 <h3 align="center">Implementation</h3>
-* Admin view
-* Error Handling
-* Persistence data (stored in .data files)
-* Copy
+<ul>
+<li>Admin view/li>
+<li>Error Handling</li>
+<li>Persistence data (stored in .data files)</li>
+<li>Copy</li>
+</ul>
 <h5 align="center">Admin</h5>
 
 * Search for a particular customer to perform various banking operations
