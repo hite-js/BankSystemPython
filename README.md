@@ -21,7 +21,6 @@ format: [First name, Last name, Address, Username, Password, Full Permission]
 <li>Admin view</li>
 <li>Error Handling</li>
 <li>Persistence data (stored in .data files)</li>
-<li>Copy</li>
 </ul>
 <h5 align="center">Admin</h5>
 
