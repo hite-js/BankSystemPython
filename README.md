@@ -18,7 +18,7 @@ format: [First name, Last name, Address, Username, Password, Full Permission]
 
 <h3 align="center">Implementation</h3>
 <ul>
-<li>Admin view/li>
+<li>Admin view</li>
 <li>Error Handling</li>
 <li>Persistence data (stored in .data files)</li>
 <li>Copy</li>
