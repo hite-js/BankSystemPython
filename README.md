@@ -16,16 +16,12 @@ format: [First name, Last name, Address, Username, Password, Full Permission]
 * Julian, Padget, 12 London Road Birmingham B95 7TT, id1188, 1441, True
 * Cathy, Newman, 47 Mars Street Newcastle NE12 6TZ, id3313, 2442, False
 
-<h3 align="center">
-    ### Implementation 
-</h3>
+<h3 align="center">Implementation</h3>
 * Admin view
 * Error Handling
 * Persistence data (stored in .data files)
 * Copy
-<h5 align="center">
-    ##### Admin 
-</h5>
+<h5 align="center">Admin</h5>
 * Search for a particular customer to perform various banking operations
 * Deposit/Withdraw money into a customer account
 * View/Update customer details
