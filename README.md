@@ -15,3 +15,16 @@ List of Admins:
 format: [First name, Last name, Address, Username, Password, Full Permission]
 * Julian, Padget, 12 London Road Birmingham B95 7TT, id1188, 1441, True
 * Cathy, Newman, 47 Mars Street Newcastle NE12 6TZ, id3313, 2442, False
+
+### Implementation
+* Admin view
+* Error Handling
+* Persistence data (stored in .data files)
+##### Admin 
+* Search for a particular customer to perform various banking operations
+* Deposit/Withdraw money into a customer account
+* View/Update customer details
+* Close a customer account
+* Update admin information
+* Different account types (change in max withdraw/overdraft)
+* Management reports
